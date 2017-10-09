@@ -1,0 +1,1 @@
+"use strict";$(".js-tilt").tilt({glare:!0,maxGlare:1});
